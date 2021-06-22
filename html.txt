@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>
+        iTunes Movie Trailers
+    </title>
+    <meta name="keywords" content="apple,itunes,iphone,tv,movies,mac,iwatch"/>
+    <meta name="description" content="This is itunes website"/>
+    <meta name="author" content="apple Inc."/>
+    <meta name="viewport" content="width=device-height" />
+    <link type="text/css" rel="stylesheet" href="staticwebpage.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+    <body>
+        <div class="DivOne">
+            <i class="fa fa-apple" style="color:#d6d6d6;font-size:19px;position:absolute; left:270px;top:27px;"></i>
+            
+            <ul class="AppleProducts">
+                <a href="https://www.apple.com/mac/" target="_self" style="text-decoration:none;"><li>Mac</li></a>
+                <a href="https://www.apple.com/ipad/" target="_self" style="text-decoration: none;"><li>iPad</li></a>
+                <a href="https://www.apple.com/iphone/" target="_self" style="text-decoration:none;"><li>iPhone</li></a>
+                <a href="https://www.apple.com/watch/" target="_self" style="text-decoration:none;"><li>Watch</li></a>
+                <a href="https://www.apple.com/tv/" target="_self" style="text-decoration:none;"><li>TV</li></a>
+                <a href="https://www.apple.com/music/" target="_self" style="text-decoration:none;"> <li>Music</li></a>
+                <a href="https://support.apple.com/" target="_self" style="text-decoration:none;"><li>Support</li></a>
+            </ul>
+            <i class="fa fa-search" style="position:relative; left: 1130px; bottom:27px; font-size: 20px; color:silver;"></i>
+            <a href="https://www.apple.com/shop/bag" target="_self"style="text-decoration:none;"><i class="fa fa-shopping-bag" style="color:silver;position:relative;left:1200px;bottom:27.5px;font-size: 19.5px;"></i></a>
+            
+        </div>
+        <div class="DivTwo">
+           <a href="https://trailers.apple.com/" target="_self" style="text-decoration:none;"> <span style="font-family: helvetica; font-size:30px;color:gray;">iTunes Movie Trailers</span></a>
+           <ul class="AppleTrailers">
+               <a href="https://trailers.apple.com/trailers/showtimes/" target="_self" style="text-decoration:none;"><li>Showtimes</li></a>
+               <a href="https://twitter.com/itunestrailers/" target="_blank" style="text-decoration:none;"><li>Trailers on Twitter</li></a>
+              <a href="https://trailers.apple.com/app/" target="_blank" style="text-decoration:none;"> <li>Download the App</li></a>
+           </ul>
+
+
+        </div>
+        <div class="DivThree">
+            <a href="https://trailers.apple.com/trailers/wb/godzilla-vs-kong/" target="_self"><img src="GodzillavsKong.jpg"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/dementia-part-ii/" target="_self"><img class="DEMANTIA"src="DEMENTIA PART II.jpg" alt="logo"/></a>
+        </div>
+        <div class="DivFour">
+            <div class="DivFour1">
+                <div class="DivFour2">
+                <i class="fa fa-th-large"style="color:white;position:relative;left:4px;top:1px;"></i>
+                <i class="fa fa-bars"style="color:white;position:relative;left:9px;top:1px;"></i>
+                </div>
+               
+                <ul class="AppleExclusive">
+                    <a href="https://trailers.apple.com/#section=justadded" target="_self" style="text-decoration:none;"><li>Just Added</li></a>
+                    <a href="https://trailers.apple.com/#section=mostpopular" target="_self"style="text-decoration:none;"><li>Most Popular</li></a>
+                   <a href="https://trailers.apple.com/#section=exclusive" target="_self"style="text-decoration:none;"> <li>Exclusive</li></a>
+                   <a href="https://trailers.apple.com/#section=genres" target="_self"style="text-decoration:none;"> <li>Genres</li></a>
+                    <a href="https://trailers.apple.com/#section=moviestudios" target="_self" style="text-decoration:none"><li>Studios</li></a>
+
+                </ul>
+                <input type="text" name="search" style="position:relative; left:565px;bottom:83px; width:200px; height:13px;"/>
+            </div>
+            <i class="ArrowLeft"></i>
+            <span style="position:relative; left:593px;top:14px; font-size:15px;color:gainsboro;">Previous</span>
+            <nav class="NavOne">
+                <span>1</span> |
+                <span>2</span> |
+                <span>3</span> |
+                <span>4</span>
+            </nav>
+            <i class="ArrowRight"></i>
+            <span style="position:absolute;top:40px;left:722px;font-size:15px;color:gainsboro;">Next</span>
+            <a href="https://trailers.apple.com/trailers/fox/rons-gone-wrong/" target="_self"><img class="RONSGONEWRONG" src="RONS GONE WRONG.jpg" alt="RONS GONE WRONG"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/hero-mode/" target="_self"><img class="HEROMODE" src="Hero Mode.jpg" alt="Hero Mode"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/monuments/" target="_self"><img class="MONUMENTS" src="MONUMENTS.jpg" alt="Monuments"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/first-date/" target="_self"><img class="FIRSTDATE" src="First Date.jpg" alt="First Date"/></a>
+            <a href="https://trailers.apple.com/trailers/fox/free-guy/" target="_self"><img class="FREEGUY" src="FREE GUY.jpg" alt="Free Guy"/></a>
+            <a id="RONSGONEWRONG" href="https://trailers.apple.com/trailers/fox/rons-gone-wrong/"target="_self" style="text-decoration:none;">Ron's Gone Wrong</a>
+            <a id="HEROMODE" href="https://trailers.apple.com/trailers/independent/hero-mode/" target="_self" style="text-decoration:none;">Hero Mode</a>
+            <a id="MONUMENTS" href="https://trailers.apple.com/trailers/independent/monuments/" target="_self" style="text-decoration:none;">Monuments</a>
+            <a id="FIRSTDATE" href="https://trailers.apple.com/trailers/independent/first-date/" target="_self" style="text-decoration:none;">First Date</a>
+            <a id="FREEGUY" href="https://trailers.apple.com/trailers/fox/free-guy/" target="_self" style="text-decoration:none;">Free Guy</a>
+            <span id="EXCLUSIVE1">EXCLUSIVE</span>
+            <a href="https://trailers.apple.com/trailers/wb/space-jam-a-new-legacy/"><img class="SPACEJAM"src="SPACE JAM.jpg" alt="Space Jam"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/love-spreads/" target="_self"> <img class="LOVESPREADS" src="LOVE SPREADS.jpg" alt="Love Spreads"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/lansky/"target="_self"><img class="LANSKY" src="LANSKY.jpg" alt="Lansky"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/domino-battle-of-the-bones/" target="_self"><img class="DOMINO" src="DOMINO.jpg" alt="Domino"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/the-year-of-the-everlasting-storm/" target="_self"><img class="THEYEAROFTHEEVER" src="THE YEAR OF THE EVER.jpg" alt="The Year of the Ever"/></a>
+            <a id="SPACEJAM" href="https://trailers.apple.com/trailers/wb/space-jam-a-new-legacy/"target="_self" style="text-decoration:none;">Space Jam:A New Legacy</a>
+            <a id="LOVESPREADS" href="https://trailers.apple.com/trailers/independent/love-spreads/"target="_self" style="text-decoration:none;">Love Spreads</a>
+            <a id="LANSKY" href="https://trailers.apple.com/trailers/independent/lansky/"target="_self" style="text-decoration:none;">Lansky</a>
+            <a id="DOMINO" href="https://trailers.apple.com/trailers/independent/domino-battle-of-the-bones/"target="_self" style="text-decoration:none;">Domino: Battle Of Th...</a>
+            <a id="THEYEAROFTHEEVER" href="https://trailers.apple.com/trailers/independent/the-year-of-the-everlasting-storm/"target="_self" style="text-decoration:none;">The Year Of The Ever...</a>
+            <span id="EXCLUSIVE2">EXCLUSIVE</span>
+            <a href="https://trailers.apple.com/trailers/independent/the-birthday-cake/" target="_self"><img class="BIRTHDAYCAKE" src="The Birthday Cake.jpg" alt="The Birthday Cake"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/rogue-hostage/" target="_self"><img class="ROGUEHOSTAGE" src="Rogue Hostage.jpg" alt="Rogue Hostage"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/dream-horse/" target="_self"><img class="DREAMHORSE" src="DREAM HORSE.jpg" alt="Dream Horse"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/death-in-texas/" target="_self"><img class="DEATHINTAXES" src="Death In Taxes.jpg" alt="Death In Taxes"/></a>
+            <a href="https://trailers.apple.com/trailers/lions_gate/flashback/" target="_self"><img class="FLASHBACK" src="FLASHBACK.jpg" alt="Flashback"/></a>
+            <a id="BIRTHDAYCAKE" href="https://trailers.apple.com/trailers/independent/the-birthday-cake/"target="_self" style="text-decoration:none;">The Birthday Cake</a>
+            <a id="ROGUEHOSTAGE" href="https://trailers.apple.com/trailers/independent/rogue-hostage/"target="_self" style="text-decoration:none;">Rogue Hostage</a>
+            <a id="DREAMHORSE" href="https://trailers.apple.com/trailers/independent/dream-horse/"target="_self" style="text-decoration:none;">Dream Horse</a>
+            <a id="DEATHINTAXES" href="https://trailers.apple.com/trailers/independent/death-in-texas/"target="_self" style="text-decoration:none;">Death In Taxes</a>
+            <a id="FLASHBACK" href="https://trailers.apple.com/trailers/lions_gate/flashback/"target="_self" style="text-decoration:none;">Flashback</a>
+            <span id="EXCLUSIVE3">EXCLUSIVE</span>
+            <a href="https://trailers.apple.com/trailers/independent/queen-bees/" target="_self"><img class="QUEENBEES" src="QUEEN BEES.jpg" alt="Queen Bees"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/my-tender-matador/" target="_self"><img class="MYTENDERMATADOR" src="My Tender .jpg" alt="My Tender Matador"/></a>
+            <a href="https://trailers.apple.com/trailers/paramount/paw-patrol-the-movie/" target="_self"><img class="PAWPATROL" src="Paw Patrol.jpg" alt="Paw Patrol: The Movie"/></a>
+            <a href="https://trailers.apple.com/trailers/universal/the-boss-baby-family-business/" target="_self"><img class="THEBOSSBABY" src="THE BOSS BABY.jpg" alt="THE BOSS BABY"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/ma-belle-my-beauty/" target="_self"><img class="MABELLE" src="MA BELLE.jpg" alt="MA BELLE"/></a>
+            <a id="QUEENBEES" href="https://trailers.apple.com/trailers/independent/queen-bees/"target="_self" style="text-decoration:none;">Queen Bees</a>
+            <a id="MYTENDERMATADOR" href="https://trailers.apple.com/trailers/independent/my-tender-matador/"target="_self" style="text-decoration:none;">My Tender Matador</a>
+            <a id="PAWPATROL" href="https://trailers.apple.com/trailers/paramount/paw-patrol-the-movie/"target="_self" style="text-decoration:none;">Paw Patrol: The Movie</a>
+            <a id="THEBOSSBABY" href="https://trailers.apple.com/trailers/universal/the-boss-baby-family-business/"target="_self" style="text-decoration:none;">The Boss Baby: Famil...</a>
+            <a id="MABELLE" href="https://trailers.apple.com/trailers/independent/ma-belle-my-beauty/"target="_self" style="text-decoration:none;">Ma Belle,My Beauty</a>
+            <span id="EXCLUSIVE4">EXCLUSIVE</span>
+            <a href="https://trailers.apple.com/trailers/independent/under-the-stadium-lights/" target="_self"><img class="UNDERTHESTADIUMLIGHTS" src="UNDERTHESTADIUMLIGHTS.jpg" alt="Under The Stadium Lights"/></a>
+            <a href="https://trailers.apple.com/trailers/wb/reminiscence/" target="_self"><img class="REMINISCENE" src="REMINISCENE.jpg" alt="REMINISCENE"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/chasing-wonders/" target="_self"><img class="CHASINGWONDERS" src="CHASING WONDERS.jpg" alt="CHASING WONDERS"/></a>
+            <a href="https://trailers.apple.com/trailers/ifcfilms/werewolves-within/" target="_self"><img class="WEREWOLVESWITHIN" src="WEREWOLVES WITHIN.jpg" alt="WEREWOLVES WITHIN"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/fully-realized-humans/" target="_self"><img class="FULLYREALIZEDHUMANS" src="FULLYREALIZEDHUMANS.jpg" alt="FULLY REALIZED HUMANS"/></a>
+            <a id="UNDERTHESTADIUMLIGHTS" href="https://trailers.apple.com/trailers/independent/under-the-stadium-lights/"target="_self" style="text-decoration:none;">Under The Stadium Li...</a>
+            <a id="REMINISCENE" href="https://trailers.apple.com/trailers/wb/reminiscence/"target="_self" style="text-decoration:none;">Reminiscene</a>
+            <a id="CHASINGWONDERS" href="https://trailers.apple.com/trailers/independent/chasing-wonders/"target="_self" style="text-decoration:none;">Chasing Wonders</a>
+            <a id="WEREWOLVESWITHIN" href="https://trailers.apple.com/trailers/ifcfilms/werewolves-within/"target="_self" style="text-decoration:none;">Werewolves Within</a>
+            <a id="FULLYREALIZEDHUMANS" href="https://trailers.apple.com/trailers/independent/fully-realized-humans/"target="_self" style="text-decoration:none;">Fully Realized Humans</a>
+            <span id="EXCLUSIVE5">EXCLUSIVE</span>
+            <a href="https://trailers.apple.com/trailers/independent/summertime/" target="_self"><img class="SUMMERTIME" src="SUMMERTIME.jpg" alt="SUMMER TIME"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/gaia/" target="_self"><img class="GAIA" src="GAIA.jpg" alt="GAIA"/></a>
+            <a href="https://trailers.apple.com/trailers/fox_searchlight/the-eyes-of-tammy-faye/" target="_self"><img class="THEEYESOFTAMMYFAYE" src="The Eyes Of Tammy Faye.jpg" alt="The Eyes Of Tammy Faye"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/girl-next/" target="_self"><img class="GIRLNEXT" src="GIRL NEXT.jpg" alt="Girl Next"/></a>
+            <a href="https://trailers.apple.com/trailers/independent/sweet-thing/" target="_self"><img class="SWEETTHING" src="Sweet Thing.jpg" alt="Sweet Thing"/></a>
+            <a id="SUMMERTIME" href="https://trailers.apple.com/trailers/independent/summertime/"target="_self" style="text-decoration:none;">Summer Time</a>
+            <a id="GAIA" href="https://trailers.apple.com/trailers/independent/gaia/"target="_self" style="text-decoration:none;">GAIA</a>
+            <a id="THEEYESOFTAMMYFAYE" href="https://trailers.apple.com/trailers/fox_searchlight/the-eyes-of-tammy-faye/"target="_self" style="text-decoration:none;">The Eyes Of Tammy Faye</a>
+            <a id="GIRLNEXT" href="https://trailers.apple.com/trailers/independent/girl-next/"target="_self" style="text-decoration:none;">Girl Next</a>
+            <a id="SWEETTHING" href="https://trailers.apple.com/trailers/independent/sweet-thing/"target="_self" style="text-decoration:none;">Sweet Thing</a>
+            <i class="ArrowLeft2"></i>
+            <span style="position:absolute; left:606px;top:1644px; font-size:15px;color:gainsboro;">Previous</span>
+            <nav class="NavOne2">
+                <span>1</span> |
+                <span>2</span> |
+                <span>3</span> |
+                <span>4</span>
+            </nav>
+            <i class="ArrowRight2"></i>
+            <span style="position:absolute;top:1644px;left:722px;font-size:15px;color:gainsboro;">Next</span>
+            
+         </div>
+         <aside class="DivFive">
+            <div class="DivFive1">In Theatres</div>
+            <div class="DivFive2"><span class="BoxOffice12">Box office</span>
+               <a class="Showtimes12 show" href="https://trailers.apple.com/trailers/showtimes/" target="_self"><span>Showtimes</span></a>
+               <ol class="Order1">
+                  <a class="kukka" href="https://trailers.apple.com/trailers/paramount/a-quiet-place-part-ii/" target="_self"> <li class="lii">A Quiet Place Part...</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/wb/in-the-heights/" target="_self"><li class="lii">In The Heights</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/sony_pictures/peter-rabbit-2-the-runaway/" target="_self"><li class="lii">Peter Rabbit 2: The...</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/wb/the-conjuring-the-devil-made-me-do-it/" target="_self"><li class="lii">The Conjuring: The...</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/disney/cruella/" target="_self"><li class="lii">Cruella</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/lions_gate/the-house-next-door-meet-the-blacks-2/" target="_self"> <li class="lii">The House Next...</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/mgm/wrath-of-man/" target="_self"><li class="lii">Wrath Of Man</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/independent/queen-bees/" target="_self"><li class="lii">Queen Bees</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/lions_gate/spiral/" target="_self"><li class="lii">Spiral</li></a>
+                   <a class="kukka" href="https://trailers.apple.com/trailers/sony/12-mighty-orphans/" target="_self"><li class="lii Ten">12 Mighty Orphans</li></a>
+               </ol>
+              
+               <div class="DivFive3"><span class="BoxOffice123">Openings</span>
+                <a  href="https://trailers.apple.com/trailers/showtimes/" target="_self" class="Showtimes123 show"><span>Showtimes</span></a>
+                <ol class="Order2">
+                    <a href="https://trailers.apple.com/trailers/lions_gate/the-hitmans-wifes-bodyguard/" target="_self" class="pilli"><li class="lii2">The Hitman's Wife's...</li></a>
+                    <a href="https://trailers.apple.com/trailers/oscilloscope/les-notres/" target="_self" class="pilli"><li class="lii2">Les Notres</li></a>
+                    <a href="https://trailers.apple.com/trailers/sony_pictures/peter-rabbit-2-the-runaway/" target="_self" class="pilli"><li class="lii2">Peter Rabbit 2: The...</li></a>
+                    <a href="https://trailers.apple.com/trailers/roadsideattractions/rita-moreno-just-a-girl-who-decided-to-go-for-it/" target="_self" class="pilli"><li class="lii2">Rita Moreno: Just A...</li></a>
+                    <a href="https://trailers.apple.com/trailers/lions_gate/siberia/" target="_self" class="pilli"><li class="lii2">Siberia</li></a>
+                    <a href="https://trailers.apple.com/trailers/focus_features/the-sparks-brothers/" target="_self" class="pilli"><li class="lii2">The Sparks Brothers</li></a>
+
+                    
+                </ol>
+                <hr style="margin-left:8px; margin-right: 8px; position:relative; top:-24px;">
+                <ol class="Order3">
+                    <a href="https://trailers.apple.com/trailers/focus_features/the-sparks-brothers/" target="_self" class="pilli"><li class="lii2">American Badger</li></a>
+                   <a href="https://itunes.apple.com/us/movie/the-birthday-cake/id1569769775?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="pilli"><li class="lii2">The Birthday Cake</li></a>
+                    <a href="https://trailers.apple.com/trailers/independent/chasing-comets/" target="_self" class="pilli"><li class="lii2">Chasing Comets</li></a>
+                    <a href="https://trailers.apple.com/trailers/independent/a-crime-on-the-bayou/" target="_self" class="pilli"><li class="lii2">A Crime On The Bayou</li></a>
+                    <a href="https://trailers.apple.com/trailers/independent/a-fathers-legacy/" target="_self" class="pilli"><li class="lii2">A Father's Legacy</li></a>
+                    <a href="https://trailers.apple.com/trailers/independent/gaia/" target="_self" class="pilli"><li class="lii2">GAIA</li>
+                        <a href="https://trailers.apple.com/trailers/independent/girl-next/" target="_self" class="pilli"><li class="lii2">Girl Next</li></a>
+                            <a href="https://trailers.apple.com/trailers/independent/love-spreads/" target="_self" class="pilli"><li class="lii2">Love Spreads</li></a>
+                                <a href="https://trailers.apple.com/trailers/independent/the-serpent/" target="_self" class="pilli"><li class="lii2">The Serpent</li></a>
+                                    <a href="https://trailers.apple.com/trailers/independent/summer-of-85/" target="_self" class="pilli"><li class="lii2">Summer of 85</li></a>
+                                        <a href="https://trailers.apple.com/trailers/independent/sweat/" target="_self" class="pilli"><li class="lii2">Sweat</li></a>
+                                            <a href="https://trailers.apple.com/trailers/independent/sweet-thing/" target="_self" class="pilli"><li class="lii2">Sweet Thing</li></a>
+                                                <a href="https://trailers.apple.com/trailers/independent/truman-tennessee-an-intimate-conversation/" target="_self" class="pilli"><li class="lii2">Truman & Tennessee....</li></a>
+
+                    
+                </ol>
+            </div>
+         </aside>
+         <aside class="DivSix">
+            <div class="DivFive1">iTunes Top Movies</div>
+            <ol class="Order1">
+                <a href="https://itunes.apple.com/us/movie/the-misfits/id1566407557?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">The Misfits</li></a>
+                <a href="https://itunes.apple.com/us/movie/the-hitmans-bodyguard/id1266502939?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">The Hitman's</li></a>
+                <a href="https://itunes.apple.com/us/movie/nobody/id1560393337?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Godzilla vs. Kong</li></a>
+                <a href="https://itunes.apple.com/us/movie/the-courier-2021/id1561316628?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Nobody</li></a>
+                <a href="https://itunes.apple.com/us/movie/godzilla-vs-kong/id1560035868?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Our Friend</li></a>
+                <a href="https://itunes.apple.com/us/movie/raya-and-the-last-dragon/id1557711427?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Raya and the Last</li></a>
+                <a href="https://itunes.apple.com/us/movie/our-friend/id1547864189?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">The Courier (2021)</li></a>
+                <a href="https://itunes.apple.com/us/movie/the-marksman-2021/id1558662694?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Soul (2020)</li></a>
+                <a href="https://itunes.apple.com/us/movie/a-quiet-place/id1356850151?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii ">Mortal Kombat (2021)</li></a>
+                <a href="https://itunes.apple.com/us/movie/the-birthday-cake/id1569769775?v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES&ign-mpt=uo%3D2" target="_self" class="nakka"><li class="lii  Ten">A Quiet Place</li></a>
+            </ol>
+            <hr style="margin-left:8px; margin-right: 8px; position:relative; top:-12px;">
+            <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=33&id=39&popId=15&v0=WWW-NAUS-ITMS-TRAILERS-TOPMOVIES" target="_self" class="topmovies"><span style="position: relative; left: 110px; top:-19px; color:silver; font-family: helvetica; font-size: 10px; font-weight: bold;">Top Movies</span>
+                <i class="fa fa-play-circle"style="color:gray; position:absolute;left:170px; top: 253px; font-size:14px;"></i></a>
+        </aside>
+        <div class="DivSeven">
+        <a href="https://trailers.apple.com/app/" target="_self"><img src="iTunes Movie RED.jpg" alt="MyImage"/></a>
+        </div>
+        <div class="DivEight">
+            <a href="https://trailers.apple.com/ca/" target="_self"><img src="iTunes Canada.jpg" alt="MyImageCanada"/></a>
+            </div>
+         <footer class="footer">
+      <pre>
+             <span style="font-family:helvetica; font-size:12.5px; position:absolute; left:13px;top:20px; color:grey;">More in Trailers:    <a href="https://twitter.com/itunestrailers/" target="_blank" class="footerlink1">Trailers on Twitter</a> </span></pre>
+            <a href="https://trailers.apple.com/trailers/home/rss/newtrailers.rss" target="_self"> <img class="RSS"src="rss_icon20080313-1.png" alt="RSS"/></a>
+                <pre>
+                    <span style="font-family:helvetica; font-size:12.5px; position:absolute; left:13px;top:50px; color:grey;">Comment, suggestion, or have a film trailer? email: <a href="https://twitter.com/itunestrailers/ target="_blank" class="footerlink2">trailers@mac.com</a></span>
+                </pre>
+                <span style="font-family:helvetica; font-size:10.5px; position:absolute; left:13px;top:80px; color:grey;">Weekly box office data provided by Rentrak</span>
+                <i class="fa fa-apple" style="color:darkslategrey;font-size:17px;position:absolute; left:25px;top:115px;"></i>
+                <i class="fa fa-angle-right" style="font-size:34px;color:silver;position:absolute; top:106px;left:55px;font-weight:lighter;opacity:0.3px;"></i>
+                <span style="font-size: 12px;color:gray;font-family:Tahoma; position:absolute; top:115px;left:80px;">iTunes Movie Trailers</span>
+                <hr style="position: relative; top:85px;margin-left:29px;">
+               <pre> <span style="font-family:helvetica; font-size:11px; position:absolute; left:29px;top:180px; color:grey;">More ways to shop: <a class="footerlink3" href="https://www.apple.com/retail/" target="_self">Find an Apple Store</a> or <a class="footerlink4" href="https://locate.apple.com/uk/en/" target="_self">other retailer</a> near you. Or call 1-800-MY-APPLE.</span></pre>
+               <span style="font-family:helvetica; font-size:11px; position:absolute; left:29px;top:200px; color:grey;" >Copyright © 2021 Apple Inc. All rights reserved.</span>
+               <ul class="footerul">
+                   <a href="https://www.apple.com/legal/privacy/" target="self"><li>Privacy Policy</li></a>
+                   <li>|</li>
+                 <a href="https://www.apple.com/legal/internet-services/terms/site.html" target="_self"> <li> Terms of Use </li></a>
+                  <li>|</li>
+                  <a href="https://www.apple.com/shop/browse/open/salespolicies" target="_self"><li> Sales and Refunds </li></a>
+                  <li>|</li>
+                  <a href="https://www.apple.com/legal/" target="_self"> <li>Legal</li></a> 
+                   <Li>|</Li>
+                   <a href="https://www.apple.com/sitemap/" target="_self"><li>Site Map</li></a>
+               </ul>
+               
+               <span style="font-family:helvetica; font-size:11px; position:absolute; left:910px;top:200px; color:grey;">United States</span>
+              
+        </footer>
+      
+
+         
+        
+
+    </body>
+</html>
